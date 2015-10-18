@@ -1,0 +1,13 @@
+{
+  "name": "casper scrape example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Henlin <cam.henlin@gmail.com> (https://github.com/CamHenlin/)",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
